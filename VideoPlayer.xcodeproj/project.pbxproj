@@ -14,12 +14,10 @@
 		3837F32D264C2EA7005670A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3837F32B264C2EA7005670A7 /* LaunchScreen.storyboard */; };
 		3837F33B264C3559005670A7 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837F339264C3559005670A7 /* MainViewController.swift */; };
 		3837F33C264C3559005670A7 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3837F33A264C3559005670A7 /* MainViewController.xib */; };
-		387EC854264D619A0020852E /* Model in Resources */ = {isa = PBXBuildFile; fileRef = 387EC853264D619A0020852E /* Model */; };
 		3897837E264E6C9F0061E93F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837F320264C2EA4005670A7 /* AppDelegate.swift */; };
 		3897837F264E6C9F0061E93F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837F322264C2EA4005670A7 /* SceneDelegate.swift */; };
 		38978380264E6C9F0061E93F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3837F339264C3559005670A7 /* MainViewController.swift */; };
 		38978382264E6C9F0061E93F /* Pods_VideoPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 079B3F6B3F5BBCF0F26826B6 /* Pods_VideoPlayer.framework */; };
-		38978384264E6C9F0061E93F /* Model in Resources */ = {isa = PBXBuildFile; fileRef = 387EC853264D619A0020852E /* Model */; };
 		38978385264E6C9F0061E93F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3837F32B264C2EA7005670A7 /* LaunchScreen.storyboard */; };
 		38978386264E6C9F0061E93F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3837F329264C2EA7005670A7 /* Assets.xcassets */; };
 		38978387264E6C9F0061E93F /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3837F33A264C3559005670A7 /* MainViewController.xib */; };
@@ -39,7 +37,6 @@
 		3837F32E264C2EA7005670A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3837F339264C3559005670A7 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		3837F33A264C3559005670A7 /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
-		387EC853264D619A0020852E /* Model */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Model; sourceTree = "<group>"; };
 		3897838D264E6C9F0061E93F /* Player .app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Player .app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3897838E264E6C9F0061E93F /* VideoPlayer-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "VideoPlayer-Info.plist"; path = "/Users/akash/Desktop/VideoPlayer/VideoPlayer-Info.plist"; sourceTree = "<absolute>"; };
 		D58882B18135FFB5B671EC70 /* Pods-VideoPlayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VideoPlayer.release.xcconfig"; path = "Target Support Files/Pods-VideoPlayer/Pods-VideoPlayer.release.xcconfig"; sourceTree = "<group>"; };
@@ -87,7 +84,6 @@
 		3837F31F264C2EA4005670A7 /* VideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				387EC853264D619A0020852E /* Model */,
 				3837F320264C2EA4005670A7 /* AppDelegate.swift */,
 				3837F322264C2EA4005670A7 /* SceneDelegate.swift */,
 				3837F326264C2EA4005670A7 /* Main.storyboard */,
@@ -197,7 +193,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				387EC854264D619A0020852E /* Model in Resources */,
 				3837F32D264C2EA7005670A7 /* LaunchScreen.storyboard in Resources */,
 				3837F32A264C2EA7005670A7 /* Assets.xcassets in Resources */,
 				3837F33C264C3559005670A7 /* MainViewController.xib in Resources */,
@@ -209,7 +204,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38978384264E6C9F0061E93F /* Model in Resources */,
 				38978385264E6C9F0061E93F /* LaunchScreen.storyboard in Resources */,
 				38978386264E6C9F0061E93F /* Assets.xcassets in Resources */,
 				38978387264E6C9F0061E93F /* MainViewController.xib in Resources */,
