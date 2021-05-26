@@ -9,10 +9,19 @@
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
-		<key>Player .xcscheme_^#shared#^_</key>
+		<key>Player .xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>21</integer>
+		</dict>
+		<key>Player.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>22</integer>
 		</dict>
 		<key>VideoPlayer copy.xcscheme</key>
 		<dict>
@@ -23,13 +32,25 @@
 		</dict>
 		<key>VideoPlayer.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>22</integer>
+			<integer>23</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>3837F31C264C2EA4005670A7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>3897837B264E6C9F0061E93F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>38AD535D265E9D2200501D52</key>
 		<dict>
 			<key>primary</key>
 			<true/>
