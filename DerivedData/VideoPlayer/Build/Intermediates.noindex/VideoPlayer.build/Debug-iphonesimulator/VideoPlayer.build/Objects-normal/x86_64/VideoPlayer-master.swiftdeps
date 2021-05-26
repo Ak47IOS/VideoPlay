@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "8548ab482fdd5b2425f1723282ca155d"
+build_time: [1620905854, 658777000]
+inputs:
+  "/Users/akash/Desktop/VideoPlayer/VideoPlayer/AppDelegate.swift": [1620834084, 298165121]
+  "/Users/akash/Desktop/VideoPlayer/VideoPlayer/SceneDelegate.swift": [1620834084, 325472010]
+  "/Users/akash/Desktop/VideoPlayer/VideoPlayer/MainViewController.swift": [1620905854, 564125578]
